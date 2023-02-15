@@ -2,7 +2,6 @@
 
 ![Yasui](https://i.imgur.com/TRFOEkw.png)
 
-* Keyboard Maintainer: Rain
 * Hardware Supported: Yasui/Cheapcheep revision 1 PCB 
 
 To flash this firmware on your rev 1 pcb do the following:
