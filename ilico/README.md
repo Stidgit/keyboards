@@ -1,5 +1,5 @@
 # Ilico macropad
-<h>Simple macropad design made for my own use<h>
+15 key macropad with a rotary encoder
 
 ## Images
 <img src="https://user-images.githubusercontent.com/111974729/208442625-4f853b63-2c9d-4c41-a155-06571b228d10.png" width=60% height=60% /> <img src="https://user-images.githubusercontent.com/111974729/208442695-787f2cad-267b-4c21-8621-09665271138b.png" width=60% height=60% />
